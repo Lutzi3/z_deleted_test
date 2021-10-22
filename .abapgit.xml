@@ -5,6 +5,10 @@
    <MASTER_LANGUAGE>D</MASTER_LANGUAGE>
    <STARTING_FOLDER>/src/</STARTING_FOLDER>
    <FOLDER_LOGIC>PREFIX</FOLDER_LOGIC>
+   <IGNORE>
+    <item>/src/z_dummy1.prog.abap</item>
+    <item>/src/z_dummy1.prog.xml</item>
+   </IGNORE>
   </DATA>
  </asx:values>
 </asx:abap>
