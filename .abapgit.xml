@@ -8,8 +8,7 @@
    <IGNORE>
     <item>/src/sub/zdummy2.prog.abap</item>
     <item>/src/sub/zdummy2.prog.xml</item>
-    <item>/src/zswisscom.prog.abap</item>
-    <item>/src/zswisscom.prog.xml</item>
+
    </IGNORE>
   </DATA>
  </asx:values>
