@@ -8,6 +8,8 @@
    <IGNORE>
     <item>/src/z_dummy1.prog.abap</item>
     <item>/src/z_dummy1.prog.xml</item>
+    <item>/src/sub/zdummy2.prog.abap</item>
+    <item>/src/sub/zdummy2.prog.xml</item>
    </IGNORE>
   </DATA>
  </asx:values>
